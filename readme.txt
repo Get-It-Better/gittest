@@ -1,3 +1,4 @@
 learn git with me.
 ok, can we start now?
 amend from another para.
+amend from master.
