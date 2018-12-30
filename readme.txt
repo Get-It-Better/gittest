@@ -1,4 +1,4 @@
 learn git with me.
 ok, can we start now?
 amend from another para.
-amend from master.
+amend from master, and now from test.
